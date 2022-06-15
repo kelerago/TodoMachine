@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kelerago/TodoMachine.git/static/css/main.c775729f.css",
+    "main.js": "/kelerago/TodoMachine.git/static/js/main.acf56dcf.js",
+    "index.html": "/kelerago/TodoMachine.git/index.html",
+    "main.c775729f.css.map": "/kelerago/TodoMachine.git/static/css/main.c775729f.css.map",
+    "main.acf56dcf.js.map": "/kelerago/TodoMachine.git/static/js/main.acf56dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c775729f.css",
+    "static/js/main.acf56dcf.js"
+  ]
+}
